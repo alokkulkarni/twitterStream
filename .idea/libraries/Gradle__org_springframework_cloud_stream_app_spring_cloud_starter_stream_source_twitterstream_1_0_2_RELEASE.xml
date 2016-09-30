@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.springframework.cloud.stream.app:spring-cloud-starter-stream-source-twitterstream:1.0.2.RELEASE">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.cloud.stream.app/spring-cloud-starter-stream-source-twitterstream/1.0.2.RELEASE/41318e5181344e257f3f4fd3d6ffa7c513e9bf2/spring-cloud-starter-stream-source-twitterstream-1.0.2.RELEASE.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.cloud.stream.app/spring-cloud-starter-stream-source-twitterstream/1.0.2.RELEASE/cc1c83e905e78eb277fc9d3bc4d1aa8136ae9d3a/spring-cloud-starter-stream-source-twitterstream-1.0.2.RELEASE-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.springframework.cloud.stream.app:app-starters-twitter-common:1.0.2.RELEASE">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.cloud.stream.app/app-starters-twitter-common/1.0.2.RELEASE/418b557e2efd15db8860d050fb6ac8b86a553316/app-starters-twitter-common-1.0.2.RELEASE.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.cloud.stream.app/app-starters-twitter-common/1.0.2.RELEASE/f098a1ff1deb90550468854adef847fa0fb01685/app-starters-twitter-common-1.0.2.RELEASE-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
